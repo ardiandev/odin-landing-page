@@ -101,6 +101,16 @@ Banner
   font-weight: 600;
 }
 
+.hero__info button:hover {
+  scale: 0.9;
+  transition: all 0.5s;
+}
+
+.hero__info button:visited {
+  scale: 1;
+  transition: all 0.5s;
+}
+
 .hero__img {
   /* border: 1px solid #f9faf8; */
   margin: 0;
@@ -164,4 +174,26 @@ Banner
     justify-content: center;
     flex-direction: column-reverse;
   }
+}
+
+/* Quote */
+.quote {
+  background-color: #e5e7eb;
+}
+
+.quote__container {
+  padding: 20px;
+  max-width: 800px;
+  padding: 90px 0;
+}
+
+.quote__text {
+  color: #1f2937;
+  font-size: 36px;
+  text-align: left;
+}
+
+.quote__writer {
+  text-align: right;
+  font-size: 25px;
 }
