@@ -1,5 +1,5 @@
 # Odin Landing Page Project
 
-This is landing page project. The page is still under construction.
+This is a landing page project. This page is styled and built based on Odin Project instruction.
 
 Visit <a href="https://ardiandev.github.io/odin-landing-page/">Demo Page</a>
